@@ -2,11 +2,7 @@ Intro
 
 >What are the three most essential skills that a beginner programmer needs to know?
 
-Reading and Writing
-
-Attention to Detail
-
-Spotting Differences
+reading and writing, attention to detail, and spotting differences
 
 >Please explain these three skills in your own words.
 
@@ -18,12 +14,8 @@ Spotting Differences:  A skill developed over time that helps train programmers 
 
 >Why do you need to not copy and paste?
 
-Copy and pasting takes away the effectiveness of lessons.  
-
-Better to type every line so as to train a progammers hands, brain, and mind in how to read, write, and see code.
+Copy and pasting takes away the effectiveness of lessons.  Better to type every line so as to train a progammers hands, brain, and mind in how to read, write, and see code.
 
 >Why is Practice and Persistence important?
 
-If you break the problem down into small exercises and lessons, and do them every day, you can learn to do almost anything. 
 
-If you focus on slowly improving and enjoying the learning process, then you will benefit no matter how good you are at it.
