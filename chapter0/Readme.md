@@ -1,18 +1,16 @@
-Chapter 0
-
 > Provide a link in your Readme.md that links to the documentation for the following classes:
 
 >> Array
 
-http://learnrubythehardway.org/book/ex32.html
+http://ruby-doc.org/core-2.2.1/Array.html
 
 >> Hash
 
-http://learnrubythehardway.org/book/ex39.html
+http://ruby-doc.org/core-2.2.0/Hash.html
 
 >> Chronic (Rubygem)
 
-http://learnrubythehardway.org/book/ex46.html
+http://chronic.rubyforge.org/
 
 > Find two other relative links and add those to the Readme.md as well.
 
