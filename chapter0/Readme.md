@@ -10,13 +10,15 @@ http://ruby-doc.org/core-2.2.0/Hash.html
 
 >> Chronic (Rubygem)
 
+http://guides.rubygems.org/rubygems-basics/
+
 http://chronic.rubyforge.org/
 
 > Find two other relative links and add those to the Readme.md as well.
 
-http://www.jasimabasheer.com/posts/meta_introduction_to_ruby.html
+http://ruby-doc.org/core-1.9.3/Time.html
 
-http://stackoverflow.com/questions/25414187/learn-ruby-the-hard-way-ex39-return-1-key-default
+http://ruby-doc.org/core-2.2.1/Enumerable.html
 
 > Skitch screen shot for Ruby Array Function search
 
